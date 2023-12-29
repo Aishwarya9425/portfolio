@@ -37,7 +37,7 @@ export const info = {
     {
       emoji: "📂",
       text: "Click here to Download Resume",
-      link: "/files/Stoman-Resume.pdf",
+      link: "/files/Aishwarya_Updated.pdf",
     },
   ],
   socials: [
