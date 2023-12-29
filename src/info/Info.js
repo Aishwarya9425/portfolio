@@ -9,6 +9,7 @@ import mock7 from "../img/mock7.png";
 import mock8 from "../img/mock8.png";
 import mock9 from "../img/mock9.png";
 import mock10 from "../img/mock10.png";
+import { FaFileArrowDown } from "react-icons/fa6";
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -32,6 +33,11 @@ export const info = {
     {
       emoji: "🌎",
       text: "Namma Bengaluru",
+    },
+    {
+      emoji: "📂",
+      text: "Click here to Download Resume",
+      link: "/files/Stoman-Resume.pdf",
     },
   ],
   socials: [
