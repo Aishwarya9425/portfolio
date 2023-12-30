@@ -37,7 +37,7 @@ export const info = {
     {
       emoji: "📂",
       text: "Click here to Download Resume",
-      link: "/public/files/Aishwarya_MERN.pdf",
+      link: "https://drive.google.com/file/d/1RLxzHybdgBLAzTQYBjMZp-IDnXfL_9L8/view",
     },
   ],
   socials: [
