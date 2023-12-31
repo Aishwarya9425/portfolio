@@ -97,9 +97,9 @@ export const info = {
       image: mock1,
     },
     {
-      title: "Kanban",
-      live: "https://kanban-react-seven.vercel.app/",
-      source: "https://github.com/Aishwarya9425/kanban_react",
+      title: "Blog MERN",
+      live: "https://blogmern-0eoz.onrender.com/",
+      source: "https://github.com/Aishwarya9425/Blog_MERN",
       image: mock2,
     },
     {
@@ -115,7 +115,7 @@ export const info = {
       image: mock4,
     },
     {
-      title: "ProShop",
+      title: "ProShop MERN",
       live: "https://proshopmern.onrender.com/",
       source: "https://github.com/Aishwarya9425/ProShop_MERN",
       image: mock6,
