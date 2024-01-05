@@ -37,7 +37,7 @@ export const info = {
     {
       emoji: "📂",
       text: "Click here to Download Resume",
-      link: "https://drive.google.com/file/d/1RLxzHybdgBLAzTQYBjMZp-IDnXfL_9L8/view",
+      link: "https://drive.google.com/file/d/1Y02d7j1xj5mv1Q8-0SroVCUZdqcLTwu6/view?usp=drive_link",
     },
   ],
   socials: [
